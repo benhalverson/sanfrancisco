@@ -6,6 +6,7 @@
     "address": "Mixmax, 512 2nd St, San Francisco, CA 94107",
     "addressUrlSafe": "512+2nd+St,+San+Francisco,+CA+94107",
     "mentorsUrl": "https://github.com/nodeschool/sanfrancisco/issues/248",
-    "ticketsUrl": "https://www.meetup.com/sfnodeschool/events/254423338/"
+    "ticketsUrl": "https://www.meetup.com/sfnodeschool/events/254423338/",
+    "pushServerUrl": "http://localhost:3000"
   }
 }
